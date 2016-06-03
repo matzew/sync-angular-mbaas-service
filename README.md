@@ -1,17 +1,14 @@
-fh-rest-service-template
-========================
+FeedHenry Sync Angular Cloud
+============================
 
+MBaaS Service for the [sync-angular-client](https://github.com/RHMAP-Sample-Mobile-Apps/sync-angular-client) that runs _fh-rest-express-router_ to expose a RESTful API, and _fh-rest-memory-adapter_ to store items in memory.
 
-An MBaaS Service that runs _fh-rest-express-router_ to facilitate
-synchronisation of records between a Client Application and a datastore exposed
-by a RESTful API running on an MBaaS Service.
+## Local Development
 
-The datastore used is an in-memory store, _fh-rest-memory-adapter_.
-
-You can run this locally like so if you have node.js and npm installed:
+Assuming you have node.js and npm installed, you can run this locally like so:
 
 ```
-cd fh-rest-sync-proxy-template
+sync-angular-cloud
 npm install
 npm start
 ```
