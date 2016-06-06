@@ -8,7 +8,7 @@ MBaaS Service for the [sync-angular-client](https://github.com/RHMAP-Sample-Mobi
 Assuming you have node.js and npm installed, you can run this locally like so:
 
 ```
-sync-angular-cloud
+cd sync-angular-cloud
 npm install
 npm start
 ```
