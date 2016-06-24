@@ -1,6 +1,7 @@
 {
   "name": "fh-rest-service-template",
   "version": "0.1.0",
+  "license": "mit",
   "description": "Sample MBaaS Service demonstrating the use of fh-rest-express-router and fh-rest-memory-adapter",
   "main": "application.js",
   "scripts": {
